@@ -1,2 +1,3 @@
 # hello-world
 new repository
+hello, i would like to study to code javascripts...
